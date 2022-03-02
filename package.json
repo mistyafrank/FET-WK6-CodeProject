@@ -1,0 +1,19 @@
+{
+  "name": "yet",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  }
+}
